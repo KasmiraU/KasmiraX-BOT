@@ -25,7 +25,7 @@ Also I am Student`  // 👈 Enter Your details and Social Media Links and Anythi
 global.owner =  ['+94779391333'] //👈  Enter Your number
 global.premium =  ['+94779391333'] //👈  Enter Your number
 global.ownernomer = '+94779391333' //👈  Enter Your number
-global.ownername = 'Kasmira Lochana' //👈 Enter Your name
+global.ownername = 'Kasmira Lachintha' //👈 Enter Your name
 global.botname = 'ＡＬＰＨＡ ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
